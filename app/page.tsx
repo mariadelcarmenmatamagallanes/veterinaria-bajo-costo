@@ -172,6 +172,9 @@ export default function Home() {
             <p className="mt-1">Profesor: Mtro. José Manuel Nava Cervantes</p>
           </div>
         </div>
+        <p className="text-center text-sm text-gray-500 mt-8 pb-4 font-medium">
+  Proyecto final de la materia Ingeniería de software - Maria del Carmen Mata Magallanes - 208609411
+</p>
       </footer>
     </div>
   );
